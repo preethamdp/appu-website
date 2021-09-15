@@ -89,6 +89,14 @@ iframe {
 
 
 }
+@media only screen and (max-width: 600px) {
+ .main{
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+     height::100vh;
+  }
  
 
  

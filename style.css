@@ -96,7 +96,13 @@ iframe {
   -o-background-size: cover;
   background-size: cover;
      height::100vh;
+     width:100%;
+     background-size:100%;
   }
+    .main h1{
+        font-size:40px;
+    }
+}
  
 
  
